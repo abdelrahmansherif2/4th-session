@@ -1,0 +1,91 @@
+.navbar{
+  
+    
+
+
+display: block;
+    width: 100%;
+    height: 50px;
+
+    margin: 10px;
+
+   
+
+
+
+
+
+
+}
+.NAV{
+
+
+    display: block;
+
+    float: LEFT;
+    
+    margin-top: 4PX;
+   margin-left: 3%;
+
+    text-align: center;
+
+
+    
+
+
+
+
+}
+
+
+.COLORE{
+
+
+
+
+    color: black;
+}
+.item{
+
+
+    float: left;
+   
+
+width: 100%;
+
+height: 600PX;
+    float: left;
+    margin-left: 10%;
+}
+.font{
+
+    font-family: "Rubik", sans-serif;
+ float: right;
+
+ margin-top: 5%;
+ margin-right: 20%;
+
+
+    
+}
+.new1,
+.new2 {
+    display: inline-block;
+}
+.new1{
+    width: 20%;
+    float: left;
+    margin-left: 10px;
+}
+
+.new2{
+    margin-left: 10%;
+    margin-top: 4px;
+    width: 60%;
+    padding: 10px;
+   float: right;
+}
+.image{
+    width: 50%;
+}
+
